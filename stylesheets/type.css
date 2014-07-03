@@ -57,6 +57,7 @@ h1 {
 		font-weight:900;
 		margin:26px 0;
 		color:#f5f4ed;
+		text-shadow: 0 13.36px 8.896px #242220,0 -2px 1px #87A6B4;
 	}
 	.presentation big {
 		font-size:20px;
